@@ -1,0 +1,12 @@
+menu {
+  font-family: 'Rubik', sans-serif;
+}
+
+.menu > a {
+  text-decoration: none;
+  color:brown;
+}
+
+.menu > a:visited {
+  color:rgb(226, 43, 186);
+}
