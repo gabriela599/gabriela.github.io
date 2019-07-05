@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width",
+    initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible"
+    content="ie=edge">
+    <title>Document</title>
+    <link href="style.css"  rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Aguafina|Roboto+Script&display=swap" 
+    rel="stylesheet" href="style.css"
+    <link rel="stylesheet" href = "style.css"
+  </head>
+  <body cla\\\ss="largura">
+    <div class="menu">
+      <a href="index.html"
+      class="selecionado">"Lanches favoritos"</a>
+      <a href="Diciplinas.html">Minhas diciplinas</a>
+      <a href="Bandas favoritas.html">Bandas favoritas</a>
+      <a href="Lanches,html">Lanches favoritos</a>
+      <a href="Hobbies.html">Hobbies<a/>
+      <h1 class="largura">Lanches favoritos<h1>
+    <div class="largura conteudo">
+    <p>
+      <p>Pastel com refrigerante<p>
+      <p>Coxinha<p>
+      <p>pizza<p>
+      <p>hamburguer<p>
+      <p>Bolo de nega maluca.<p>
+    <p>
+  </div>
+</body>
+</html>
